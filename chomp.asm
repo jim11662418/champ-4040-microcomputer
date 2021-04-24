@@ -4,7 +4,7 @@
          cpu 4040       
          
 ;include 4004 register definitions            
-            include "reg4004.inc"         
+include "reg4004.inc"         
             
 ; Conditional jumps that ASW recognizes:
 ; jcn t     jump if test=0
